@@ -52,12 +52,11 @@ Importa la cartella come progetto Java in Eclipse o IntelliJ IDEA ed esegui la c
 
 Si tratta di un laboratorio didattico, non di un'applicazione production-ready. Gli esercizi sono raccolti nello stesso punto per mostrare la progressione nello studio delle API Java.
 
-## Possibili miglioramenti
+## Uso e mantenimento
 
-- separare ogni esercizio in una classe eseguibile;
-- aggiungere test automatici;
-- introdurre Maven per una build riproducibile;
-- rimuovere i metadati specifici dell'IDE dal versionamento.
+Repository storico di consultazione e richiamo di Java Core. Non è un progetto di prodotto attivo.
+
+Per riprenderlo scegliere un singolo esercizio, provare una variante e verificare il risultato. Separazione degli esercizi, test e build Maven sono miglioramenti facoltativi da applicare solo quando utili alla prova scelta.
 
 ## Autore
 
